@@ -1,0 +1,25 @@
+.nav-black {
+    background-color: black;
+    color: white;
+  }
+  
+  .dark-celu .container {
+    background-color: transparent;
+  }
+  
+  
+  @media only screen and (max-width: 991px) {
+    
+    .dark-celu {
+      background-color: black;
+    }
+   }
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.carousel-item ing {
+    max-width: 180vh;
+}

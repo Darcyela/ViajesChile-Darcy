@@ -49,3 +49,28 @@ body{
   background-position: center;
 }
 
+.form form-label{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+
+.footer .p{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+
+.container{
+  overflow: hidden;
+}
+
+.item{
+  margin: 1rem;
+  padding: 1rem;
+  float: left;
+}
+
+.item1{
+  margin: 1rem;
+  padding: 1rem;
+  float: right;
+}
